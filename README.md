@@ -1,8 +1,8 @@
 # tax-popup
 
-## Project setup
+## Project view
 ```
-npm install
+https://tax-popup-c6d6a.web.app
 ```
 
 ### Compiles and hot-reloads for development
